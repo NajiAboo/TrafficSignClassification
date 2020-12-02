@@ -1,2 +1,4 @@
 # TrafficSignClassification
-Traffic sign classification using CNN
+Traffic sign classification LeNet.
+used 
+Keras, CNN, Conv2D, MaxPooling
